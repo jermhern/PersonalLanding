@@ -140,17 +140,17 @@ body {
   text-align: center;
 }
 
-.container:hover .image {
+.container:hover .image, .container:active .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.container:hover .middle, .container:active .middle {
   opacity: 1;
 }
 
 .text {
   background-color: #D52941;
   color: white;
-  font-size: 1.5em;
+  font-size: 1.6em;
   padding: 5%;
 }
