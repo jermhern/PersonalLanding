@@ -65,7 +65,7 @@ body {
 	background-color: #5D5D81;
 	position: absolute;
 	top: 4000px;
-	height: 2300px;
+	height: 1800px;
 	width: 100%;
 }
 
@@ -85,7 +85,6 @@ body {
 	margin-right: auto; 
 }
 
-/*individual boxes for skills */
 .skills-box {
 	background-color: white;
 	margin: 10%;
@@ -94,6 +93,6 @@ body {
 
 .skills-box img {
 	padding: 2%;
-	width: 30%;
-	height: 30%;
+	width: 25%;
+	height: 25%;
 }
