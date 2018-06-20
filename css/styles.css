@@ -1,0 +1,86 @@
+body {
+	margin: 0;
+	height: 100%;
+	background-color: #D52941;
+}
+
+.home-container {
+	text-align: center;
+}
+
+.name {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 4em;
+	color: #FFF8E8;
+}
+
+/*bounce effect for the arrow at the bottom of home page*/
+@keyframes bounce {
+	0%, 20%, 60%, 100% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	40% {
+		-webkit-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	80% {
+		-webkit-transform: translateY(-10px);
+		transform: translateY(-10px);
+	}
+}
+
+.scroll-icon {
+	position: absolute;
+
+	/*Initial bounce*/
+	animation: bounce 1s;
+
+	left: 48.5%;
+	top: 91%;
+	color: #FFF8E8;
+}
+
+.scroll-icon i:hover {
+	animation: bounce 1s;
+}
+
+/*containers*/
+.parent-container {
+	font-family: 'Quicksand', sans-serif;
+	width: 100%;
+	text-align: center;
+}
+
+.about-container {
+	background-color: white;
+	position: absolute;
+	top: 2300px;
+	height: 2020px;
+}
+
+.skills-container {
+	background-color: #5D5D81;
+	position: absolute;
+	top: 4300px;
+	height: 2300px;
+	width: 100%;
+}
+
+.title {
+	font-size: 4em;
+	color: #111;
+	padding: 5% 20% 3% 20%;
+}
+
+.content {
+	font-size: 3em;
+	margin: 0 15% 10% 15%;
+}
+
+.box {
+	margin-left: auto;
+	margin-right: auto; 
+}
