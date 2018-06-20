@@ -57,14 +57,14 @@ body {
 .about-container {
 	background-color: white;
 	position: absolute;
-	top: 2300px;
+	top: 2000px;
 	height: 2020px;
 }
 
 .skills-container {
 	background-color: #5D5D81;
 	position: absolute;
-	top: 4300px;
+	top: 4000px;
 	height: 2300px;
 	width: 100%;
 }
