@@ -69,6 +69,14 @@ body {
 	width: 100%;
 }
 
+.project-container {
+	background-color: white;
+	position: absolute;
+	top: 5800px;
+	height: 1800px;
+	width: 100%;
+}
+
 .title {
 	font-size: 4em;
 	color: #111;
