@@ -140,11 +140,11 @@ body {
   text-align: center;
 }
 
-.container:hover .container:active .image {
+.container:hover, .container:active .image {
   opacity: 0.3;
 }
 
-.container:hover .container:active .middle {
+.container:hover, .container:active .middle {
   opacity: 1;
 }
 
