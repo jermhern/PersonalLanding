@@ -84,3 +84,16 @@ body {
 	margin-left: auto;
 	margin-right: auto; 
 }
+
+/*individual boxes for skills */
+.skills-box {
+	background-color: white;
+	margin: 10%;
+	padding: 5%;
+}
+
+.skills-box img {
+	padding: 2%;
+	width: 30%;
+	height: 30%;
+}
