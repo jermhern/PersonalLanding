@@ -154,3 +154,30 @@ body {
   font-size: 1.6em;
   padding: 5%;
 }
+
+@media screen and (min-width: 1050px) and (max-width: 1367px){
+	.project-container {
+		height: 3600px;
+	}
+
+	.title {
+	font-size: 3em;
+	}
+
+	.skills-box img {
+	padding: 2%;
+	width: 15%;
+	height: 15%;
+	}
+
+	.content {
+	font-size: 2.9em;
+	}
+
+}
+
+@media screen and (min-width: 1368px) {
+	.project-container {
+		height: 3800px;
+	}
+}
