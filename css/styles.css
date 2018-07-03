@@ -73,7 +73,7 @@ body {
 	background-color: white;
 	position: absolute;
 	top: 5800px;
-	height: 3400px;
+	height: 4000px;
 	width: 100%;
 }
 
@@ -157,7 +157,7 @@ body {
 
 @media screen and (min-width: 1050px) and (max-width: 1367px){
 	.project-container {
-		height: 4800px;
+		height: 5000px;
 	}
 
 	.title {
@@ -178,6 +178,6 @@ body {
 
 @media screen and (min-width: 1368px) {
 	.project-container {
-		height: 5000px;
+		height: 5300px;
 	}
 }
