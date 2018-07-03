@@ -157,7 +157,7 @@ body {
 
 @media screen and (min-width: 1050px) and (max-width: 1367px){
 	.project-container {
-		height: 3800px;
+		height: 4000px;
 	}
 
 	.title {
@@ -178,6 +178,6 @@ body {
 
 @media screen and (min-width: 1368px) {
 	.project-container {
-		height: 4200px;
+		height: 4600px;
 	}
 }
