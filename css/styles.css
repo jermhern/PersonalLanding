@@ -51,10 +51,11 @@ body {
 .parent-container {
 	font-family: 'Quicksand', sans-serif;
 	width: 100%;
+	height: 100%;
 	text-align: center;
 }
 
-.about-container {
+/* .about-container {
 	background-color: white;
 	position: absolute;
 	top: 2000px;
@@ -67,7 +68,7 @@ body {
 	top: 4000px;
 	height: 2300px;
 	width: 100%;
-}
+} */
 
 .project-container {
 	background-color: white;
@@ -157,7 +158,7 @@ body {
 
 @media screen and (min-width: 1050px) and (max-width: 1367px){
 	.project-container {
-		height: 5000px;
+		height: 100%;
 	}
 
 	.title {
@@ -176,8 +177,9 @@ body {
 
 }
 
-@media screen and (min-width: 1368px) {
+/* @media screen and (min-width: 1368px) {
 	.project-container {
 		height: 6000px;
 	}
 }
+ */
