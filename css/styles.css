@@ -40,7 +40,7 @@ body {
 	width: 100%;
 	height: 100%;
 	text-align: center;
-	color: #36151E;
+	color: #FFEECF;
 }
 
 /* .about-container {
@@ -138,8 +138,8 @@ body {
 }
 
 .text {
-  background-color: #D52941;
-  color: #FFF8E8;
+  background-color: #7a93ac;
+  color: #FFEECF;
   font-size: 1.6em;
   padding: 5%;
 }
