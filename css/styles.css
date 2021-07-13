@@ -47,6 +47,10 @@ body {
 	animation: bounce 1s;
 }
 
+.media-icon i:hover {
+	animation: bounce 1s;
+}
+
 /*containers*/
 .parent-container {
 	font-family: 'Quicksand', sans-serif;
