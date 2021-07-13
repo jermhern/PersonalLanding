@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	height: 100%;
-	background-color: #D52941;
+	background-color: #8499B1;
 }
 
 .home-container {
@@ -10,8 +10,6 @@ body {
 
 .name {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 4em;
-	color: #FFF8E8;
 }
 
 /*bounce effect for the arrow at the bottom of home page*/
@@ -32,21 +30,6 @@ body {
 	}
 }
 
-.scroll-icon {
-	position: absolute;
-
-	/*Initial bounce*/
-	animation: bounce 1s;
-
-	left: 48.5%;
-	top: 91%;
-	color: #FFF8E8;
-}
-
-.scroll-icon i:hover {
-	animation: bounce 1s;
-}
-
 .media-icon i:hover {
 	animation: bounce 1s;
 }
@@ -57,7 +40,7 @@ body {
 	width: 100%;
 	height: 100%;
 	text-align: center;
-	color: #FFF8E8;
+	color: #36151E;
 }
 
 /* .about-container {
@@ -85,7 +68,7 @@ body {
 
 .title {
 	font-size: 4em;
-	color: #111;
+	color: #111666;
 	padding: 5% 20% 3% 20%;
 }
 
@@ -156,7 +139,7 @@ body {
 
 .text {
   background-color: #D52941;
-  color: white;
+  color: #FFF8E8;
   font-size: 1.6em;
   padding: 5%;
 }
