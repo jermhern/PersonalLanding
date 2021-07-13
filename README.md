@@ -1,2 +1,2 @@
-# Portfolio-June
-This is simply my most updated portfolio to showcase my projects and skills!
+# Landing
+This is simply my most updated landing page.
