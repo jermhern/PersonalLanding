@@ -10,6 +10,7 @@ body {
 
 .name {
 	font-family: 'Quicksand', sans-serif;
+	font-size: 2em;
 }
 
 /*bounce effect for the arrow at the bottom of home page*/
@@ -149,14 +150,29 @@ body {
 		height: 100%;
 	}
 
-	.title {
-	font-size: 4em;
-	}
+	.name {
+  	font-size: 2em;
+  }
 
-	.content {
-	font-size: 2.9em;
-	}
+	.text {
+  	font-size: 1.8em;
+  }
 
+}
+
+@media only screen and (max-width: 600px) {
+  .name {
+  	font-size: 1.7em;
+  }
+
+  .text {
+  	font-size: 1.6em;
+  }
+
+  .image {
+  	width: 18%;
+  	height: 18%;
+  }
 }
 
 /* @media screen and (min-width: 1368px) {
