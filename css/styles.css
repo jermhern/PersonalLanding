@@ -158,20 +158,25 @@ body {
   	font-size: 1.8em;
   }
 
-}
-
-@media only screen and (max-width: 600px) {
-  .name {
-  	font-size: 1.7em;
-  }
-
-  .text {
-  	font-size: 1.6em;
-  }
-
   .image {
   	width: 18%;
   	height: 18%;
+  }
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1049px) {
+  .name {
+  	font-size: 1.9em;
+  }
+
+  .text {
+  	font-size: 1.8em;
+  }
+
+  .image {
+  	width: 25%;
+  	height: 25%;
   }
 }
 
