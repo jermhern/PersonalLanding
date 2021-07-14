@@ -151,7 +151,7 @@ body {
 	}
 
 	.name {
-  	font-size: 2em;
+  	font-size: 1.8em;
   }
 
 	.text {
@@ -167,7 +167,7 @@ body {
 
 @media only screen and (min-width: 600px) and (max-width: 1049px) {
   .name {
-  	font-size: 1.9em;
+  	font-size: 1.7em;
   }
 
   .text {
