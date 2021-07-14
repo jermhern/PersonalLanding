@@ -107,9 +107,9 @@ body {
     padding: 5%;
 }
 
-.image{
-	width: 50%;
-	height: 15%;
+.image {
+	width: 7%;
+	height: 7%;
 	padding: 5%;
 	opacity: 1;
 
@@ -140,8 +140,8 @@ body {
 .text {
   background-color: #7a93ac;
   color: #FFEECF;
-  font-size: 2em;
-  padding: 5%;
+  font-size: 1.5em;
+  padding: 2% 7% 2% 7%;
 }
 
 @media screen and (min-width: 1050px) and (max-width: 1367px){
@@ -150,13 +150,7 @@ body {
 	}
 
 	.title {
-	font-size: 3em;
-	}
-
-	.skills-box img {
-	padding: 2%;
-	width: 15%;
-	height: 15%;
+	font-size: 4em;
 	}
 
 	.content {
